@@ -1,0 +1,14 @@
+name: Sri_Lanka_Tourism_Demand_Forecasting_System
+title: Sri_Lanka_Tourism_Demand_Forecasting_System
+username:
+account: sltdfs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5698287
+bundleId: 6558680
+url: https://sltdfs.shinyapps.io/Sri_Lanka_Tourism_Demand_Forecasting_System/
+when: 1669528990.1462
+lastSyncTime: 1669528990.1462
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: arima.R|nn_model.R|timenueral.R|Excel files
