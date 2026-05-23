@@ -72,9 +72,9 @@ The forecasting models were evaluated using:
 ## Repository Structure
 ```text
 .
-├── Excel files/        # Dataset files
-├── rsconnect/shinyapps.io/sltdfs/          # Shiny app hosting credentials
-├── www/             # logo image
+├── Excel files/                        # Dataset files
+├── rsconnect/shinyapps.io/sltdfs/      # Shiny app hosting credentials
+├── www/                                # logo image
 └── README.md
 ```
 
