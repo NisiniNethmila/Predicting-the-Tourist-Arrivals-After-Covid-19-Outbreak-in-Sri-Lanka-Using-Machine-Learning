@@ -90,7 +90,7 @@ Dataset period:
 [View](https://sltdfs.shinyapps.io/Sri_Lanka_Tourism_Demand_Forecasting_System/)
 
 ## Research Report
-[View]()
+[View](PredictingtheTouristArrivalsAfterCovid-19OutbreakinSriLankaUsingMachineLearning.pdf)
 
 ## Authors
 - **Dr. Sachintha Pitigala (Supervisor)**
