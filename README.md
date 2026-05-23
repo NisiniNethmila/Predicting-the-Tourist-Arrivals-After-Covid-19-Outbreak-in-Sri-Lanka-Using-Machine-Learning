@@ -72,11 +72,9 @@ The forecasting models were evaluated using:
 ## Repository Structure
 ```text
 .
-├── data/               # Dataset files
-├── notebooks/          # Training / experiment notebooks
-├── models/             # Saved model checkpoints
-├── src/                # Training and inference scripts
-├── results/            # Evaluation outputs and figures
+├── Excel files/        # Dataset files
+├── rsconnect/shinyapps.io/sltdfs/          # Shiny app hosting credentials
+├── www/             # logo image
 └── README.md
 ```
 
